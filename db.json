@@ -1,0 +1,75 @@
+{
+  "movies": [
+    {
+      "title": "King Kong",
+      "rating": "5",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjYxYmRlZWYtMzAwNC00MDA1LWJjNTItOTBjMzlhNGMzYzk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "plot": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to the mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with leading lady Ann Darrow.",
+      "id": 1
+    },
+    {
+      "title": "Step Brothers",
+      "rating": "5",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjZiNzU0YWQtYTA4OS00OTYwLTk4ZmYtNGNmZjU3YTFjMjM5XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+      "plot": "Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.",
+      "id": 2
+    },
+    {
+      "title": "Thor",
+      "rating": "5",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
+      "plot": "The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+      "id": 3
+    },
+    {
+      "title": "Jaws",
+      "rating": "5",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "plot": "A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wrecking havoc in a beach resort.",
+      "id": 4
+    },
+    {
+      "title": "Lord of the Rings",
+      "rating": "4",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+      "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "id": 5
+    },
+    {
+      "title": "Harry Potter",
+      "rating": "5",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+      "plot": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+      "id": 6
+    },
+    {
+      "title": "Pitch Perfect",
+      "rating": "4",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMTMzNzE5N15BMl5BanBnXkFtZTcwNzg5NjM5Nw@@._V1_SX300.jpg",
+      "plot": "Beca, a freshman at Barden University, is cajoled into joining The Bellas, her school's all-girls singing group. Injecting some much needed energy into their repertoire, The Bellas take on their male rivals in a campus competition.",
+      "id": 7
+    },
+    {
+      "title": "Jurassic Park",
+      "rating": "5",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+      "plot": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+      "id": 8
+    },
+    {
+      "title": "Jurassic World",
+      "rating": "5",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWEyNTE0YTEtY2FkMi00MmY3LTg4MWMtODdjYjRkNGM4ZTZhXkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_SX300.jpg",
+      "plot": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, which escapes containment and goes on a killing spree.",
+      "id": 9
+    },
+    {
+      "title": "Deadpool",
+      "rating": "5",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "plot": "A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge.",
+      "genre": "Action, Adventure, Comedy",
+      "id": 10
+    }
+  ]
+}
