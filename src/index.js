@@ -55,15 +55,15 @@ function moviesRefresh() {
     // console.log(movies);
     movies.forEach(({title, rating, id, poster, plot, genre}) => {
         $("#movies").append(`
-                <div class="card col-3 w-100 bg-primary text-light m-4">
+                <div class="card col-3 w-100 bg-primary text-light m-4 box-shadowing">
                     <img class="card-img-top moviePoster" src="${poster}" alt="Movie Image">
                     <div class="card-body">
                         <h2 id="movieTitle" class="card-title">${title}</h2>
                         <h4>${rating}/5</h4>
-                           <!--<p id="plotText" class="card-text">${plot}</p>-->
+                           <p id="plotText" class="card-text">${plot}</p>
                            <p id="genreText" class="card-text">${genre}</p>
-                           <button id=${id} type="button" class="btn btn-secondary movieModalBtn" data-toggle="modal" data-target="#movieInfoModal">Movie Info</button>
-                           <button id=${id} type="button" class="btn btn-sm btn-secondary editButton" data-toggle="modal" data-target="#editModal">Edit</button>
+                           <!--<button id=${id} type="button" class="btn btn-secondary movieModalBtn" data-toggle="modal" data-target="#movieInfoModal">Movie Info</button>-->
+                           <button id=${id} type="button" class="btn btn-sm btn-secondary editButton" data-toggle="modal" data-target="#editModal">Edit Movie</button>
                     </div>
                 </div>
                 `);

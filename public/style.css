@@ -54,3 +54,7 @@
 #myDiv {
     text-align: center;
 }
+
+.box-shadowing {
+    box-shadow: 15px 20px 16px #111111;
+}
